@@ -1,0 +1,14 @@
+.product-item {
+	width: 400px;
+	height: 400px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	border: 2px solid #e3e3e3;
+}
+.image {
+	border-radius: 8px 8px 0 0;
+	height: clamp(10rem, 40vh, 30rem);
+	width: 100%;
+}

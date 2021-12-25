@@ -1,0 +1,16 @@
+.cart {
+	display: flex;
+	flex-flow: column;
+	justify-content: center;
+	align-items: center;
+	width: 600px;
+	height: 500px;
+	border: 20px solid #e3e3e3;
+	overflow: scroll;
+}
+.pay {
+	width: 300px;
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+}
